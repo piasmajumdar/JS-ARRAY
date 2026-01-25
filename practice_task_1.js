@@ -7,6 +7,7 @@ console log the final array
 */
 
 let fruits = ['apple', 'banana', 'mango', 'jackfruit', 'pineapple'];
+console.log(fruits);
 console.log(fruits[2]);
 
 fruits[1] = 'jambura';
