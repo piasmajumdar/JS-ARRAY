@@ -1,1 +1,5 @@
-const numbers = [88, 66, 45, 4545, 455, 45];
+const friends = ['balam', 'kalam', 'salam', 'gelam', 'pailam'];
+
+console.log(friends.indexOf('gelam'));
+
+console.log(friends.indexOf('tomato'));
